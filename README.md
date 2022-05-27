@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mainlycolors" target="blank"><img src="https://img.shields.io/twitter/follow/mainlycolors?logo=twitter&style=for-the-badge" alt="mainlycolors" /></a> </p>
 
-- 🔭 I’m currently working on [blank project](LINK)
+- 🔭 I’m currently working on an [ecommerce store](https://github.com/MainlyColors/portfolio-project)
 
 - 🌱 I’m currently learning **Three.js, Blender**
 
