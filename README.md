@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/mainlycolors" target="blank"><img src="https://img.shields.io/twitter/follow/mainlycolors?logo=twitter&style=for-the-badge" alt="mainlycolors" /></a> </p>
 
-- 🔭 I’m currently working on an [ecommerce store](https://github.com/MainlyColors/portfolio-project)
+- 🔭 I’m currently working on a CLI tool
 
-- 🌱 I’m currently learning **Three.js, Blender**
+- 🌱 I want to learn **Three.js, Blender** eventually when I have time 😂 
 
 - 👨‍💻 All of my projects are available at [example.com](example.com)
 
